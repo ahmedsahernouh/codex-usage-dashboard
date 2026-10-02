@@ -5,6 +5,8 @@ requires Python 3 with Tkinter, the Windows `pyw` launcher, and Codex CLI on
 your `PATH`. No extra Python packages are required.
 
 Double-click `Launch.vbs`. Create a desktop shortcut to that file if desired.
+If the dashboard is already open, the launcher brings that window forward
+instead of starting a second copy.
 
 Select each of the three rows and click **Connect selected account**. Sign in to
 the matching account in the browser; choose a different account if the browser
