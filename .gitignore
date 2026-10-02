@@ -1,0 +1,7 @@
+__pycache__/
+*.py[cod]
+*.lnk
+.venv/
+settings.json
+account-*/
+*.tmp
